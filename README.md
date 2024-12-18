@@ -3,7 +3,7 @@ Fund Management System using Java Swing with FlatLaf modern UI.
 
 Screenshots:
 ![Screenshot 2024-12-17 025020](https://github.com/user-attachments/assets/95078591-00cc-4857-aa69-69abbac21351)
-![Screenshot 2024-12-15 211837](https://github.com/user-attachments/assets/50f0a2d5-de50-4b61-8e6d-20b1ab944746)
+
 ![Screenshot 2024-12-15 211837](https://github.com/user-attachments/assets/31c4eb0a-42b6-4d66-b0d9-087ceec974ff)
 ![Screenshot 2024-12-15 214441](https://github.com/user-attachments/assets/c3950030-b437-4462-a282-0fa99ca49ad7)
 ![Screenshot 2024-12-15 214927](https://github.com/user-attachments/assets/c7d94ac4-7a25-464c-b3f5-140944efe94d)
